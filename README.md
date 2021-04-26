@@ -1,1 +1,2 @@
-# django_rest
+# Django project
+## Backend for colorswatch Rest API
